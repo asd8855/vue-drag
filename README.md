@@ -1,3 +1,3 @@
 # vue-drag
 ### 效果
-![gif]('./img/drag.gif')
+![gif](./img/drag.gif)
